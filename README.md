@@ -1,19 +1,23 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate developer with a keen interest in JavaScript and SvelteKit.
+I'm Jimmy Mutabazi, a passionate developer with a keen interest in the JavaScript Ecosystem.
 
 ## 🚀 About Me
-- 💻 Currently working on: .
-- 🌱 Learning: TailwindCSS and exploring advanced JavaScript techniques.
-- 🤝 Open to collaborating on: JavaScript, SvelteKit, React, Express and any exciting projects in JavaScript ecosystem.
-- 💬 Ask me about: SvelteKit, Vite, TailwindCSS, or anything related to web development.
+- 💻 Currently working on: [Sinc](https://sinc.today/about) and [Shaka](https://www.shaka.rw).
+- 🌱 Learning: NestJS and Laravel.
+- 🤝 Open to collaborating on: JavaScript, SvelteKit, React, Express, and any exciting projects in the JavaScript ecosystem.
+- 💬 Ask me about: SvelteKit, Vite, TailwindCSS, or anything related to web development in the above-mentioned stack.
 - ⚡ Fun fact: I enjoy contributing to open source projects and experimenting with new technologies.
 
 ## 🛠️ Skills
-- **Languages:** JavaScript, TypeScript, Python, Php
-- **Frameworks:** Svelte, SvelteKit, Vite, React, Next, Express
-- **CSS:** TailwindCSS
-- **Tools:** VS Code, Git, GitHub, ...
+- **Languages:** JavaScript, TypeScript, Python, PHP
+- **Frameworks:** Svelte, SvelteKit, Vite, React, Next, Express, TailwindCSS, Bootstrap
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **ORMs:** Prisma, Sequelize
+- **Testing:** Jest, Coveralls
+- **CI/CD:** CircleCI, GitHub Actions, Docker
+- **Documentation:** Swagger, Postman
+- **Tools:** VS Code, Git, GitHub, Figma, ...
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmymut&show_icons=true&theme=radical)
