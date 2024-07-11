@@ -19,8 +19,8 @@ I'm Jimmy Mutabazi, a passionate developer with a keen interest in the JavaScrip
 - **Documentation:** Swagger, Postman
 - **Tools:** VS Code, Git, GitHub, Figma, ...
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmymut&show_icons=true&theme=radical)
+<!-- ## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmymut&show_icons=true&theme=radical) -->
 
 ## 🏆 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmymut&layout=compact&theme=radical)
