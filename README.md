@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**jimmymut/jimmymut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate developer with a keen interest in JavaScript and SvelteKit.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Currently working on: .
+- 🌱 Learning: TailwindCSS and exploring advanced JavaScript techniques.
+- 🤝 Open to collaborating on: JavaScript, SvelteKit, React, Express and any exciting projects in JavaScript ecosystem.
+- 💬 Ask me about: SvelteKit, Vite, TailwindCSS, or anything related to web development.
+- ⚡ Fun fact: I enjoy contributing to open source projects and experimenting with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** JavaScript, TypeScript, Python, Php
+- **Frameworks:** Svelte, SvelteKit, Vite, React, Next, Express
+- **CSS:** TailwindCSS
+- **Tools:** VS Code, Git, GitHub, ...
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmymut&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmymut&layout=compact&theme=radical)
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/mutabazi-jimmy-134528116/)
+
+Feel free to connect with me! I'm always open to discussing new projects, ideas, and collaboration opportunities.
