@@ -3,7 +3,7 @@
 I'm Jimmy Mutabazi, a passionate developer with a keen interest in the JavaScript Ecosystem.
 
 ## 🚀 About Me
-- 💻 Currently working on: [Sinc](https://sinc.today) and [Shaka](https://www.shaka.rw).
+- 💻 Currently working on: [Sinc](https://www.sinc.events/explore) and [Shaka](https://www.shaka.rw).
 - 🌱 Learning: NestJS and Laravel.
 - 🤝 Open to collaborating on: JavaScript, SvelteKit, React, Express, and any exciting projects in the JavaScript ecosystem.
 - 💬 Ask me about: SvelteKit, Vite, TailwindCSS, or anything related to web development in the above-mentioned stack.
