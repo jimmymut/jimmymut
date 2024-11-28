@@ -11,9 +11,9 @@ I'm Jimmy Mutabazi, a passionate developer with a keen interest in the JavaScrip
 
 ## 🛠️ Skills
 - **Languages:** JavaScript, TypeScript, Python, PHP
-- **Frameworks:** Svelte, SvelteKit, Vite, React, Next, Express, TailwindCSS, Bootstrap
+- **Frameworks:** Svelte, SvelteKit, Vite, React, Next, Express, TailwindCSS, Bootstrap, nestjs
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **ORMs:** Prisma, Sequelize
+- **ORMs:** Prisma, Sequelize, typeOrm
 - **Testing:** Jest, Coveralls
 - **CI/CD:** CircleCI, GitHub Actions, Docker
 - **Documentation:** Swagger, Postman
