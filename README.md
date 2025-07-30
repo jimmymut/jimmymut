@@ -4,16 +4,15 @@ I'm Jimmy Mutabazi, a passionate developer with a keen interest in the JavaScrip
 
 ## 🚀 About Me
 - 💻 Currently working on: [Sinc](https://www.sinc.events/explore) and [Shaka](https://www.shaka.rw).
-- 🌱 Learning: NestJS and Laravel.
-- 🤝 Open to collaborating on: JavaScript, SvelteKit, React, Express, and any exciting projects in the JavaScript ecosystem.
+- 🤝 Open to collaborating on: JavaScript, SvelteKit, React, Express, Next.js, nestjs, and any exciting projects in the JavaScript ecosystem.
 - 💬 Ask me about: SvelteKit, Vite, TailwindCSS, or anything related to web development in the above-mentioned stack.
 - ⚡ Fun fact: I enjoy contributing to open source projects and experimenting with new technologies.
 
 ## 🛠️ Skills
 - **Languages:** JavaScript, TypeScript, Python, PHP
-- **Frameworks:** Svelte, SvelteKit, Vite, React, Next, Express, TailwindCSS, Bootstrap, nestjs
+- **Frameworks:** Svelte, SvelteKit, Vite, React, Next, Express, TailwindCSS, Bootstrap, nestjs, Next.js, React Native, expo
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **ORMs:** Prisma, Sequelize, typeOrm
+- **ORMs:** Prisma, Sequelize, typeOrm, mongoose
 - **Testing:** Jest, Coveralls
 - **CI/CD:** CircleCI, GitHub Actions, Docker
 - **Documentation:** Swagger, Postman
